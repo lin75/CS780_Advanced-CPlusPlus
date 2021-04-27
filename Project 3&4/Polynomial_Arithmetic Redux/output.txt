@@ -1,0 +1,20 @@
+First polynomial in canonical form is: 7x^2+8x+2
+
+Second polynomial in canonical form is: x^9+18x^3-8x^2+3x-1
+
+Their sum is: x^9+18x^3-x^2+11x+1
+
+Their difference is: -x^9-18x^3+15x^2+5x+3
+
+Their product is: 7x^11+8x^10+2x^9+126x^5+88x^4-7x^3+x^2-2x-2
+---------------------------------------------------------------------
+First polynomial in canonical form is: 0
+
+Second polynomial in canonical form is: 5x-1
+
+Their sum is: 5x-1
+
+Their difference is: -5x+1
+
+Their product is: 00
+---------------------------------------------------------------------
